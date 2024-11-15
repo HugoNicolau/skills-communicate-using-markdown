@@ -5,3 +5,7 @@
 ### This is the header three
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+const myText = "Hello World!";
+```
